@@ -13,4 +13,9 @@ example -> ./scpt payload_shell fast yes 0.0.0.0 (same as above, pre-made payloa
 
 ///// other description //////
 
-default stage length: 22, maximum 25 adjustable (can be changed in script)
+Default stage length: 22, maximum 25 adjustable (can be changed in script)
+
+"fast" method takes place a fraction of seconds.
+Almost as efficient as "spec" method.
+(With Python,  could quick and same time efficien.) :-)
+
