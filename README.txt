@@ -16,5 +16,5 @@ Default stage length: 22, maximum 25 adjustable (can be changed in script).
 
 "fast" method takes place a fraction of seconds.
 Almost as efficient as "spec" method.
-(With Python,  could quick and same time efficien). :-)
+(With Python, could quick and same time efficien). :-)
 
