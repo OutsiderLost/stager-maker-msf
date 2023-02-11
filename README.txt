@@ -11,3 +11,6 @@ example -> ./scpt 192.168.1.241 fast yes 0.0.0.0 (create payload with fast metho
 example -> ./scpt payload_shell fast yes 0.0.0.0 (same as above, pre-made payload instead of IP)
 (default stager method: special, work time: 2.5-5s)
 
+///// other description //////
+
+default stage length: 22, maximum 25 adjustable (can be changed in script)
